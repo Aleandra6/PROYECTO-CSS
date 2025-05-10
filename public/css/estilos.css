@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f0f2c7b9;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+
+.tabla-empresa {
+    border: 2px solid #9eb8d2;
+    background-color: #e6f0ff;
+}
+
+.tabla-empresa td {
+    border: 1px solid #9ac8f5;
+    padding: 10px;
+}
+
+.tabla-cliente {
+    border: 2px solid #79c8c4;
+    background-color: #e6ffe6;
+}
+
+.tabla-cliente td {
+    border: 1px solid #78c8af;
+    padding: 10px;
+}
+
+
+.tabla-productos {
+    border: 2px solid #74cdc2;
+    background-color: #fff5f5;
+}
+
+.tabla-productos th, .tabla-productos td {
+    border: 1px solid #8be8b3;
+    padding: 10px;
+    text-align: center;
+}
+
+.tabla-productos th {
+    background-color: #b0e8e1;
+}
+
+
+.total-label {
+    text-align: right;
+}
+
+
+.tabla-adicional {
+    border: 2px solid #333300;
+    background-color: #ffffe6;
+}
+
+.tabla-adicional td {
+    border: 1px solid #333300;
+    padding: 10px;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    color: #555;
+}
+
+img{
+    width: 200px;
+}
